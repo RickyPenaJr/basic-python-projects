@@ -1,4 +1,4 @@
-# 🐍 Mini Python Projects
+# 🐍 Basic Python Projects
 
 A collection of beginner-friendly Python scripts built for practice, learning, and demonstration. These mini projects cover basic logic, file I/O, user input, and simple automation — all runnable in the terminal.
 
