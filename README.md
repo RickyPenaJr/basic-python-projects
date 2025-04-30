@@ -1,0 +1,55 @@
+# 🐍 Mini Python Projects
+
+A collection of beginner-friendly Python scripts built for practice, learning, and demonstration. These mini projects cover basic logic, file I/O, user input, and simple automation — all runnable in the terminal.
+
+## 📁 Projects Included
+
+| Filename         | Description                                |
+|------------------|--------------------------------------------|
+| `guess_game.py`  | 🎯 Number guessing game using random module |
+| `todo.py`        | ✅ Simple to-do list stored in a text file  |
+| `even_odd.py`    | 🔢 Check if a number is even or odd         |
+| `chatbot.py`     | 💬 Basic chatbot using string matching      |
+| `age_calc.py`    | 📅 Calculate your age from birth year       |
+
+---
+
+## ▶️ How to Run
+
+1. **Clone this repo:**
+   ```bash
+   git clone https://github.com/yourusername/mini-python-projects.git
+   cd mini-python-projects
+   ```
+
+2. **Run any file with Python:**
+   ```bash
+   python guess_game.py
+   ```
+
+---
+
+## 🧠 Skills Practiced
+
+- Loops & Conditionals
+- User Input Handling
+- File I/O
+- Random Number Generation
+- Basic String Matching
+- Working with Dates (`datetime`)
+
+---
+
+## 💡 Who is this for?
+
+Perfect for:
+- Python beginners
+- Students practicing simple scripts
+- Anyone looking to review core concepts
+
+---
+
+## 👨‍💻 Author
+
+**Ricky Peña Jr.**  
+📎 [Portfolio](https://rickypenajr.github.io) • [GitHub](https://github.com/rickypenajr) • [LinkedIn](https://linkedin.com/in/rickypenajr)
