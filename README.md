@@ -40,17 +40,18 @@ A fun collection of beginner-friendly Python scripts made for learning and pract
 
 ---
 
+## 💡 Why I Made This
+I created this project to sharpen my Python skills through hands-on practice and build a small library of simple scripts that others can also learn from. Starting with basic logic and user interaction helped me strengthen my fundamentals while keeping things fun and practical.
+
+
+---
+
 ## 🌐 Who is this for?
 
 Perfect for:
 - Python beginners
 - Students practicing simple scripts
 - Anyone looking to review core concepts
-
----
-
-## 💡 Why I Made This
-I created this project to sharpen my Python skills through hands-on practice and build a small library of simple scripts that others can also learn from. Starting with basic logic and user interaction helped me strengthen my fundamentals while keeping things fun and practical.
 
 ---
 
