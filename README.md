@@ -40,7 +40,7 @@ A fun collection of beginner-friendly Python scripts made for learning and pract
 
 ---
 
-## 💡 Who is this for?
+## 🌐 Who is this for?
 
 Perfect for:
 - Python beginners
@@ -49,7 +49,12 @@ Perfect for:
 
 ---
 
-## 👨‍💻 Author
+## 💡 Why I Made This
+I created this project to sharpen my Python skills through hands-on practice and build a small library of simple scripts that others can also learn from. Starting with basic logic and user interaction helped me strengthen my fundamentals while keeping things fun and practical.
+
+---
+
+## 👨🏻‍💻 Author
 
 **Ricky Peña Jr.**  
 📎 [Portfolio](https://rickypenajr.github.io) • [GitHub](https://github.com/rickypenajr) • [LinkedIn](https://linkedin.com/in/rickypenajr)
