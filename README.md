@@ -18,7 +18,7 @@ A fun collection of beginner-friendly Python scripts made for learning and pract
 
 1. **Clone this repo:**
    ```bash
-   git clone https://github.com/yourusername/mini-python-projects.git
+   git clone https://github.com/yourusername/basic-python-projects.git
    cd mini-python-projects
    ```
 
